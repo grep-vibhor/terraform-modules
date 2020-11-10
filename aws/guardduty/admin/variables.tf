@@ -1,0 +1,1 @@
+variable "delegate_account" {}

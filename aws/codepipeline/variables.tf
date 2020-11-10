@@ -1,0 +1,28 @@
+variable "codepipeline_name" {}
+variable "repo_name" {}
+variable "branch_name" {}
+variable "PollForSourceChanges" {
+  type = bool
+}
+variable "codebuild_name" {}
+variable "cluster_name" {}
+variable "service_name" {}
+variable "file_name" {}
+variable "environment" {}
+variable "codepipeline_role_arn" {}
+variable "codepipeline_bucket_name" {}
+#variable "kms_key_arn" {}
+variable "stage_deploy" {}
+variable "stage_build" {}
+variable "stage_source" {}
+variable "stage_apply" {}
+variable "stage_plan" {}
+variable "stage_approval" {}
+variable "plan_codebuild_name" {}
+variable "approve_sns_arn" {}
+variable "approve_comment" {}
+variable "approve_url" {}
+variable "apply_codebuild_name" {}
+variable "BRANCH_NAME" {}
+variable "CROSS_ACCOUNT_CODEBUILD_ROLE_NAME" {}
+variable "ACCOUNT_ID" {}

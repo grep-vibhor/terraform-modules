@@ -1,0 +1,9 @@
+host_project_id    = "host_project"
+gcp_region = "asia-south1"
+filestore_instance_name        = "greythr-filestore"
+filestore_zone         = "asia-south1-a"
+filestore_tier       = "BASIC_HDD"
+filestore_capacity = "1024"
+file_share_name = "internal"
+filestore_network    = "vpc_name"
+filestore_ip_version   = ["MODE_IPV4"]
