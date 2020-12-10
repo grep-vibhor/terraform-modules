@@ -1,8 +1,8 @@
 # <p align="center"> Cloud Monitoring Alert Policy </p>
 
-<p>Alerting gives timely awareness to problems in your cloud applications so you can resolve the problems quickly. </p>
+Alerting gives timely awareness to problems in your cloud applications so you can resolve the problems quickly.
 
-<p>To create an alerting policy, you must describe the circumstances under which you want to be alerted and how you want to be notified. This page provides an overview of alerting policies and the concepts behind them.</p>
+To create an alerting policy, you must describe the circumstances under which you want to be alerted and how you want to be notified. This page provides an overview of alerting policies and the concepts behind them.
 
 
 You can create and manage alerting policies with the Google Cloud Console, the Cloud Monitoring API, and Cloud SDK.
