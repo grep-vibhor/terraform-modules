@@ -1,6 +1,6 @@
 # <p align="center"> Cloud Monitoring Alert Policy </p>
 
-<p>Alerting gives timely awareness to problems in your cloud applications so you can resolve the problems quickly. </p>p>
+<p>Alerting gives timely awareness to problems in your cloud applications so you can resolve the problems quickly. </p>
 
 <p>To create an alerting policy, you must describe the circumstances under which you want to be alerted and how you want to be notified. This page provides an overview of alerting policies and the concepts behind them.</p>
 
