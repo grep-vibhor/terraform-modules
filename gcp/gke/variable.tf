@@ -1,5 +1,5 @@
 variable "gcp_project" {
-  default = "cloudcover-sandbox"
+  default = "sandbox"
 }
 
 variable "gcp_region" {
@@ -11,7 +11,7 @@ variable "credentials_path" {
 }
 
 variable "service_project_id" {
-  default = "cloudcover-sandbox"
+  default = "sandbox"
 }
 
 variable "gcp_location" {
